@@ -1,0 +1,4 @@
+Hello, this will be a practice and developpment of my use of Python with pygame
+
+This will be done in hopes of improving my skills
+- Santiago Rivera
