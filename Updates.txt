@@ -1,0 +1,23 @@
+Version 0.1.0 objective:
+
+* Combat
+    - Introduce a basic 4 move combat system
+    - Player can choose when to attack a single enemy
+    - Winning battle means winning xp
+
+* Story
+    - Basic first day story paths (day one to be incomplete)
+
+* Reputation
+    - Reputation system impacted based on decisions made
+
+* Leveling system
+    - Player can level up to gain higher health
+
+* Inventory
+    - Player can access inventory to view health and items stored
+    - Max Inventory: 5 items
+
+* Items
+    - Apple
+        - Consumable (gain 5 health)

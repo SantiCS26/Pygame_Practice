@@ -1,4 +1,6 @@
-Hello, this will be a practice and developpment of my use of Python with pygame
+Hello, this will be a practice and developpment of my use of Python by creating a game.
 
-This will be done in hopes of improving my skills
+The game is intended to have a complex story path system, each with unique stories and changes to the game.
+A combat system where the enemy can learn from the player and make attacks that have the best chance to harmt the player.
+
 - Santiago Rivera
